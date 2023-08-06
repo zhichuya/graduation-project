@@ -1,0 +1,8 @@
+node_modules*
+node_modules/*
+dist
+.cache/
+垃圾分类*
+垃圾分类/*
+*.jpg
+*.jpeg

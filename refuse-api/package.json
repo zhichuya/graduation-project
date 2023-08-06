@@ -1,0 +1,22 @@
+{
+  "name": "refuse-api",
+  "version": "1.0.0",
+  "description": "koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^3.1.0",
+    "koa": "^2.13.1",
+    "koa-jwt": "^3.6.0",
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
